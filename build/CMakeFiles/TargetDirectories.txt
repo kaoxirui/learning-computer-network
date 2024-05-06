@@ -1,0 +1,6 @@
+/home/kao/learning-computer-network/build/CMakeFiles/rebuild_cache.dir
+/home/kao/learning-computer-network/build/CMakeFiles/edit_cache.dir
+/home/kao/learning-computer-network/build/CMakeFiles/web.dir
+/home/kao/learning-computer-network/build/CMakeFiles/packet.dir
+/home/kao/learning-computer-network/build/CMakeFiles/TCPclient.dir
+/home/kao/learning-computer-network/build/CMakeFiles/TCPserver.dir
